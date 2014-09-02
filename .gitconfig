@@ -1,0 +1,39 @@
+[user]
+	email = admin@alboh.de
+	name = Daniel Gräber
+[github]
+    user = albohlabs
+[rebase]
+    autosquash = true
+[merge]
+    summary = true
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = true
+    pager = true
+[color "branch"]
+    current = yellow reverse
+    local = yellow
+    remote = green
+[color "diff"]
+    meta = blue
+    frag = magenta
+    old = red
+    new = green
+[color "status"]
+    added = yellow
+    changed = green
+    untracked = blue
+[alias]
+	ch = checkout
+    l = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(cyan)<%an>%Creset' --abbrev-commit --date=relative
+    s = status
+[push]
+	default = simple
+[merge]
+	tool = opendiff
+[mergetool]
+	keepBackup = true
