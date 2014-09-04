@@ -1,7 +1,7 @@
 alboh's dotfiles and more
 =========================
 
-## 2. [Xcode](https://developer.apple.com/xcode/) and ["Command Line Tools"](https://developer.apple.com/downloads/index.action)
+### [Xcode](https://developer.apple.com/xcode/) and [Command Line Tools](https://developer.apple.com/downloads/index.action)
 
 1. App Store -> Xcode
 2. terminal and install:
