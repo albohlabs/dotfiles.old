@@ -1,6 +1,11 @@
 alboh's dotfiles
 ================
 
+### oh-my-zsh
+``` bash
+curl -L http://install.ohmyz.sh | sh
+``` 
+
 ### [Homebrew](http://brew.sh/)
 ``` bash
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
@@ -30,11 +35,6 @@ In vim use `:BundleInstall`
 ### native aps
 ``` bash
 brew bundle ~/Caskfile
-``` 
-
-### oh-my-zsh
-``` bash
-curl -L http://install.ohmyz.sh | sh
 ``` 
 
 ### Font
