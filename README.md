@@ -63,3 +63,4 @@ brew bundle ~/Caskfile
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 - [skwp/dotfiles](https://github.com/skwp/dotfiles)
 - [paulmillr/dotfiles](https://github.com/paulmillr/dotfiles)
+- [gist.github.com/zenorocha/7159780](https://gist.github.com/zenorocha/7159780)
