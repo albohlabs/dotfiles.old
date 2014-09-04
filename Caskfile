@@ -21,11 +21,8 @@ cask install gitx-rowanj 2> /dev/null
 cask install wireshark 2> /dev/null
 
 # other
-cask install the-unarchiver 2> /dev/null
 cask install torbrowser 2> /dev/null
 cask install transmission 2> /dev/null
-cask install ukelele 2> /dev/null
-cask install miro-video-converter 2> /dev/null
 cask install dropbox 2> /dev/null
 cask install vlc 2> /dev/null
 cask install alfred 2> /dev/null
