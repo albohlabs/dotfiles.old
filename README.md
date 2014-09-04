@@ -29,12 +29,12 @@ brew install python
 pip install --user git+git://github.com/Lokaltog/powerline
 ``` 
 
-### packages
+### Packages
 ``` bash
 brew bundle ~/Brewfile
 ```
 
-### vim
+### Vim
 ``` bash
 brew install macvim --env-std --override-system-vim ack ctags 
 ```
@@ -45,7 +45,7 @@ In vim use `:BundleInstall`
 
 Download [Source™ Code Pro](https://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
 
-## native aps
+## Native apps
 ``` bash
 brew bundle ~/Caskfile
 ``` 
