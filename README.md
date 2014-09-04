@@ -1,5 +1,5 @@
-alboh's dotfiles
-================
+alboh's dotfiles and more
+=========================
 
 ### oh-my-zsh
 ``` bash
