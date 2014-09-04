@@ -63,7 +63,37 @@ brew bundle ~/Caskfile
 * [Pecunia](https://itunes.apple.com/de/app/radium-perfect-internet-radio/id597611879?mt=12) for money
 * [Vox](https://itunes.apple.com/de/app/vox/id461369673?mt=12) for music
 * [Texpad](https://itunes.apple.com/de/app/texpad-latex-editor/id458866234?mt=12) for LaTeX
-* [BusyCal 2](https://itunes.apple.com/de/app/busycal-2/id567245998?mt=12) better iCal
+* [BusyCal 2](https://itunes.apple.com/de/app/busycal-2/id567245998?mt=12) for better iCal
+
+## Browser extensions
+##### Firefox
+
+* [Adblock Plus](https://adblockplus.org/en/firefox) 
+* [BetterPrivacy](nc.ddns.us/extensions.html) 
+* [Cookie Controller](https://addons.mozilla.org/en-US/firefox/addon/cookie-controller/?src=api) 
+* [Https-Everywhere](https://www.eff.org/https-everywhere) 
+* [NoScript](http://noscript.net/) 
+* [octotree](https://github.com/buunguyen/octotree) 
+* [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/?src=api) 
+* [spillo-extension](https://github.com/albohlabs/spillo-firefox-extension) 
+* [The Fox, Only Better](https://addons.mozilla.org/en-US/firefox/addon/the-fox-only-better/) 
+* [VimFx](https://github.com/akhodakivskiy/VimFx) 
+
+##### Chrome
+
+* [HN Special - An addition to Hacker News](https://gabrielecirulli.github.io/hn-special/) 
+* [Http Switchboard](https://github.com/gorhill/httpswitchboard) 
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) 
+* [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) 
+* [Octotree](https://github.com/buunguyen/octotree) 
+* [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) 
+* [Play to XBMC](https://chrome.google.com/webstore/detail/play-to-xbmc/fncjhcjfnnooidlkijollckpakkebden) 
+* [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) 
+* [ProxMate](http://proxmate.dave.cx/) 
+* [Reddit Enhancement Suite](http://redditenhancementsuite.com/) 
+* [Spillo](http://bananafishsoftware.com/products/spillo/) 
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb) 
+* [一键禁用所有扩展-加强版](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%A6%81%E7%94%A8%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95-%E5%8A%A0%E5%BC%BA%E7%89%88/ejhdjfmkegkpenillofhpmikail) 
 
 ## Inspired by 
 
