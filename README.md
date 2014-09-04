@@ -57,7 +57,7 @@ brew bundle ~/Caskfile
 * [Monosnap](https://itunes.apple.com/de/app/monosnap/id540348655?mt=12) for screenshots
 * [Soulver](https://itunes.apple.com/de/app/soulver/id413965349?mt=12) for calculations
 * [Radium](https://itunes.apple.com/de/app/radium-perfect-internet-radio/id597611879?mt=12) for radio
-* [Pecunia](https://itunes.apple.com/de/app/radium-perfect-internet-radio/id597611879?mt=12) for money
+* [Pecunia](http://www.pecuniabanking.de/index.php/downloads) for money
 * [Vox](https://itunes.apple.com/de/app/vox/id461369673?mt=12) for music
 * [Texpad](https://itunes.apple.com/de/app/texpad-latex-editor/id458866234?mt=12) for LaTeX
 * [BusyCal 2](https://itunes.apple.com/de/app/busycal-2/id567245998?mt=12) for better iCal
