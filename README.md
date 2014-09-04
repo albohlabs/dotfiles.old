@@ -42,8 +42,12 @@ brew bundle ~/Caskfile
 curl -L http://install.ohmyz.sh | sh
 ``` 
 
+### Font
+
+Download [Source™ Code Pro](https://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
 
 ## Inspired by 
 
 - [chrishunt/dot-files](https://github.com/chrishunt/dot-files)
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
+- [skwp/dotfiles](https://github.com/skwp/dotfiles)
