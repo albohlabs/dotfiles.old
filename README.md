@@ -43,7 +43,7 @@ In vim use `:BundleInstall`
 
 ### Font
 
-Download [Source™ Code Pro](https://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
+[Source™ Code Pro](https://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
 
 ## Native apps
 ``` bash
