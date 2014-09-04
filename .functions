@@ -73,8 +73,8 @@ function tre() {
 # given location
 function v() {
 	if [ $# -eq 0 ]; then
-		mvim -v .;
+		vim -v .;
 	else
-		mvim -v "$@";
+		vim -v "$@";
 	fi;
 }

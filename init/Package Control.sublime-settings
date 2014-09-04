@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"ApacheConf.tmLanguage",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"INI",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep257",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php",
+		"SublimePythonIDE",
+		"SyncedSideBar",
+		"Tag",
+		"Theme - Spacegray"
+	]
+}
