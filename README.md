@@ -10,7 +10,7 @@ alboh's dotfiles and more
 xcode-select --install
 ```
 
-### oh-my-zsh
+### [oh-my-zsh](http://ohmyz.sh/)
 ``` bash
 curl -L http://install.ohmyz.sh | sh
 ``` 
