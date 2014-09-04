@@ -17,6 +17,7 @@ Bundle 'altercation/vim-colors-solarized'
 Bundle 'kien/ctrlp.vim'
 Bundle 'Lokaltog/vim-easymotion'
 Bundle 'ervandew/supertab'
+Bundle 'mileszs/ack.vim'
 
 " Language Addition
 Bundle 'leshill/vim-json'
