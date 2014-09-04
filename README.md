@@ -2,13 +2,11 @@ alboh's dotfiles
 ================
 
 ### [Homebrew](http://brew.sh/)
-
 ``` bash
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 ``` 
 
 ### [powerline](https://powerline.readthedocs.org/en/latest/installation/osx.html)
-
 ``` bash
 brew install python
 ``` 
@@ -18,13 +16,11 @@ pip install --user git+git://github.com/Lokaltog/powerline
 ``` 
 
 ### packages
-
 ``` bash
 brew bundle ~/Brewfile
 ```
 
 ### vim
-
 ``` bash
 brew install macvim --env-std --override-system-vim ack ctags 
 ```
@@ -32,7 +28,6 @@ brew install macvim --env-std --override-system-vim ack ctags
 In vim use `:BundleInstall`
 
 ### OS X
-
 ``` bash
 ./.osx
 ``` 
@@ -41,6 +36,12 @@ In vim use `:BundleInstall`
 ``` bash
 brew bundle ~/Caskfile
 ``` 
+
+### oh-my-zsh
+``` bash
+curl -L http://install.ohmyz.sh | sh
+``` 
+
 
 ## Inspired by 
 
