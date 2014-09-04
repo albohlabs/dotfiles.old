@@ -52,10 +52,18 @@ brew bundle ~/Caskfile
 ###### Manually
 
 * [Dash](http://kapeli.com/) for documentation lookup
-* [Flamingo](https://itunes.apple.com/us/app/flamingo/id728181573) for messaging
-* [TweetDeck](https://itunes.apple.com/us/app/tweetdeck/id485812721?ls=1&mt=12) for tweet scheduling
-* [Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver) for ZIP, RAR, etc
-* [1Password](https://agilebits.com/onepassword) for password management
+* [TweetDeck](https://itunes.apple.com/us/app/tweetdeck/id485812721?ls=1&mt=12) for twitter
+* [BetterZip](https://itunes.apple.com/de/app/betterzip/id415086549?mt=12) for ZIP, RAR, etc
+* [Hydra](http://mjolnir.io/) for window management
+* [Instacast](http://vemedio.com/products/instacast-mac) for podcast
+* [CleanApp](http://www.syniumsoftware.com/de/cleanapp/) for uninstalling
+* [Monosnap](https://itunes.apple.com/de/app/monosnap/id540348655?mt=12) for screenshots
+* [Soulver](https://itunes.apple.com/de/app/soulver/id413965349?mt=12) for calculations
+* [Radium](https://itunes.apple.com/de/app/radium-perfect-internet-radio/id597611879?mt=12) for radio
+* [Pecunia](https://itunes.apple.com/de/app/radium-perfect-internet-radio/id597611879?mt=12) for money
+* [Vox](https://itunes.apple.com/de/app/vox/id461369673?mt=12) for music
+* [Texpad](https://itunes.apple.com/de/app/texpad-latex-editor/id458866234?mt=12) for LaTeX
+* [BusyCal 2](https://itunes.apple.com/de/app/busycal-2/id567245998?mt=12) better iCal
 
 ## Inspired by 
 

@@ -17,6 +17,8 @@ cask install iterm2 2> /dev/null
 cask install macvim 2> /dev/null
 cask install sublime-text 2> /dev/null
 cask install virtualbox 2> /dev/null
+cask install gitx-rowanj 2> /dev/null
+cask install wireshark 2> /dev/null
 
 # other
 cask install the-unarchiver 2> /dev/null
@@ -30,3 +32,14 @@ cask install alfred 2> /dev/null
 cask install mou 2> /deb/null
 cask install skype 2> /deb/null
 cask install spotify 2> /deb/null
+cask install flux 2> /deb/null
+cask install onepassword 2> /deb/null
+cask install electrum 2> /deb/null
+cask install daisydisk 2> /deb/null
+cask install spillo 2> /deb/null
+cask install little-snitch 2> /deb/null
+cask install openoffice 2> /deb/null
+cask install seil 2> /deb/null
+cask install shimo 2> /deb/null
+cask install shiori 2> /deb/null
+cask install universal-media-server 2> /deb/null
