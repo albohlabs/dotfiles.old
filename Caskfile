@@ -19,9 +19,12 @@ cask install sublime-text 2> /dev/null
 cask install virtualbox 2> /dev/null
 cask install gitx-rowanj 2> /dev/null
 cask install wireshark 2> /dev/null
+cask install sequel-pro 2> /dev/null
 
 # other
 cask install torbrowser 2> /dev/null
+cask install bartender 2> /dev/null
+cask install gpgtools 2> /dev/null
 cask install transmission 2> /dev/null
 cask install dropbox 2> /dev/null
 cask install vlc 2> /dev/null
