@@ -2,6 +2,7 @@
 alias clean="sudo rm /private/var/log/asl/*.asl"
 
 alias sshexport='ssh-copy-id -i ~/.ssh/id_rsa.pub '
+alias fuck='sudo $(history -p \!\!)' 
 
 # Easier navigation: .., ..., ~ and -
 alias ..="cd .."
