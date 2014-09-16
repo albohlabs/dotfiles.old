@@ -56,6 +56,7 @@ install pv
 install rename
 install tree
 install ucspi-tcp # `tcpserver` et al.
+install mtr
 
 # Remove outdated versions from the cellar
 cleanup
