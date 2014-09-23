@@ -70,7 +70,7 @@ brew bundle ~/Caskfile
 * [BetterPrivacy](nc.ddns.us/extensions.html) 
 * [Cookie Controller](https://addons.mozilla.org/en-US/firefox/addon/cookie-controller/?src=api) 
 * [Https-Everywhere](https://www.eff.org/https-everywhere) 
-* [NoScript](http://noscript.net/) 
+* [Ghostery](https://www.ghostery.com/en/download) 
 * [Password Hasher](https://addons.mozilla.org/de/firefox/addon/password-hasher/) 
 * [octotree](https://github.com/buunguyen/octotree) 
 * [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/?src=api) 
