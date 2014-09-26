@@ -67,8 +67,6 @@ brew bundle ~/Caskfile
 ##### Firefox
 
 * [Adblock Plus](https://adblockplus.org/en/firefox) 
-* [BetterPrivacy](nc.ddns.us/extensions.html) 
-* [Cookie Controller](https://addons.mozilla.org/en-US/firefox/addon/cookie-controller/?src=api) 
 * [Https-Everywhere](https://www.eff.org/https-everywhere) 
 * [Ghostery](https://www.ghostery.com/en/download) 
 * [Password Hasher](https://addons.mozilla.org/de/firefox/addon/password-hasher/) 
