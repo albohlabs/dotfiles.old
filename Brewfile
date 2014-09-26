@@ -57,6 +57,7 @@ install rename
 install tree
 install ucspi-tcp # `tcpserver` et al.
 install mtr
+install hub
 
 # Remove outdated versions from the cellar
 cleanup
