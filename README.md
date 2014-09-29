@@ -61,7 +61,7 @@ brew bundle ~/Caskfile
 * [Vox](https://itunes.apple.com/de/app/vox/id461369673?mt=12) for music
 * [Texpad](https://itunes.apple.com/de/app/texpad-latex-editor/id458866234?mt=12) for LaTeX
 * [BusyCal 2](https://itunes.apple.com/de/app/busycal-2/id567245998?mt=12) for better iCal
-* [Reeder 2](https://itunes.apple.com/de/app/reeder-2/id880001334?mt=12) for [Fever°](http://feedafever.com/)
+* [SSH Tunnel Manager](https://itunes.apple.com/de/app/ssh-tunnel-manager/id424470626?mt=12) for SSH Tunnel
 
 ## Browser extensions
 ##### Firefox
