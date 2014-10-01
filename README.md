@@ -7,14 +7,14 @@ alboh's dotfiles and more
 xcode-select --install
 ```
 
-### [oh-my-zsh](http://ohmyz.sh/)
-``` bash
-curl -L http://install.ohmyz.sh | sh
-``` 
-
 ### [Homebrew](http://brew.sh/)
 ``` bash
 ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+``` 
+
+### [oh-my-zsh](http://ohmyz.sh/)
+``` bash
+curl -L http://install.ohmyz.sh | sh
 ``` 
 
 ### [powerline](https://powerline.readthedocs.org/en/latest/installation/osx.html)
@@ -23,7 +23,7 @@ brew install python
 ``` 
 
 ``` bash
-pip install --user git+git://github.com/Lokaltog/powerline
+pip install git+git://github.com/Lokaltog/powerline
 ``` 
 
 ### Packages
