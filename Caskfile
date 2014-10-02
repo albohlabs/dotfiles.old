@@ -43,3 +43,4 @@ cask install seil 2> /deb/null
 cask install shimo 2> /deb/null
 cask install shiori 2> /deb/null
 cask install universal-media-server 2> /deb/null
+cask install adium 2> /deb/null
