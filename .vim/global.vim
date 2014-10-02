@@ -137,8 +137,7 @@ endif
 " ----------------------------------------------------------------------------
 " GUI
 " ----------------------------------------------------------------------------
-set guifont=Source\ Code\ Pro\ for\ Powerline:h13
-" set guifont="Source Code Pro for Powerline":h14
+set guifont=Source\ Code\ Pro\ for\ Powerline:h12
 set bs=2
 set ai
 
