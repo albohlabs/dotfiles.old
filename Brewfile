@@ -58,6 +58,7 @@ install tree
 install ucspi-tcp # `tcpserver` et al.
 install mtr
 install hub
+install the_silver_searcher
 
 # Remove outdated versions from the cellar
 cleanup
