@@ -22,6 +22,7 @@ Bundle 'mileszs/ack.vim'
 " Language Addition
 Bundle 'leshill/vim-json'
 Bundle 'hail2u/vim-css3-syntax'
+Bundle 'othree/html5.vim'
 Bundle 'groenewege/vim-less'
 Bundle 'cakebaker/scss-syntax.vim'
 Bundle 'jelera/vim-javascript-syntax'
