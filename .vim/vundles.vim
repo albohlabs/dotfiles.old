@@ -33,11 +33,10 @@ Bundle 'Raimondi/delimitMate'
 Bundle 'klen/python-mode'
 Bundle 'davidhalter/jedi-vim'
 
+Bundle 'scrooloose/syntastic'
+
 " php
 Bundle 'spf13/PIV'
-
-" autocomplete
-Bundle 'Shougo/neocomplcache'
 
 filetype plugin indent on     " required!"
 
