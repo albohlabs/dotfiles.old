@@ -38,6 +38,12 @@ brew install macvim --env-std --override-system-vim ack ctags
 
 In vim use `:BundleInstall`
 
+##### Syntastic Vim plugin
+
+``` bash
+'npm install jshint -g
+```
+
 ### Font
 
 [Source™ Code Pro](https://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1960)
