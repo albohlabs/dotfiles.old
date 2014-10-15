@@ -51,6 +51,9 @@ let g:DisableAutoPHPFolding = 1
 " javascript-libraries-syntax.vim
 autocmd BufReadPre *.js let b:javascript_lib_use_jquery = 1
 
+" Use jshint (uses ~/.jshintrc)
+let g:syntastic_javascript_checkers = ['jshint']
+
 " pymode
 let g:pymode_run = 0
 let g:pymode_options_max_line_length = 100
